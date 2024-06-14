@@ -79,7 +79,7 @@ li:hover::before{
 }
 
 main{
-    width: 80vw;
+    width: 90vw;
     position: relative;
     height: auto;
     margin: 10px 10px;
@@ -95,7 +95,7 @@ main{
 main >div{
     width: fit-content;
     height: auto;
-    margin-left: 20px ;
+    margin-left: 10px ;
     margin-top: 20px;
 }
 img{
